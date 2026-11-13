@@ -1,4 +1,4 @@
-# Softknock
+# Softknock (Educational Purposes)
 
 <p align="center">
   <img src="assets/preview.webp"  width="100%">
